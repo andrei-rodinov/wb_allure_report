@@ -1,0 +1,211 @@
+[ {
+  "uid" : "b1691f21305d024d",
+  "name" : "[2] 2, 5, 0",
+  "time" : {
+    "start" : 1730123978544,
+    "stop" : 1730123979055,
+    "duration" : 511
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "214587408e4ffe73",
+  "name" : "Получение информации о материалах курса",
+  "time" : {
+    "start" : 1730123981387,
+    "stop" : 1730123981989,
+    "duration" : 602
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2b3ef5dcd2a96d9",
+  "name" : "Отправка задания на проверку",
+  "time" : {
+    "start" : 1730123966279,
+    "stop" : 1730123967715,
+    "duration" : 1436
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f853fbc0802521d7",
+  "name" : "Получение информации о задачах",
+  "time" : {
+    "start" : 1730123968791,
+    "stop" : 1730123969375,
+    "duration" : 584
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d0dd338f25c1b86",
+  "name" : "[3] 11",
+  "time" : {
+    "start" : 1730123976456,
+    "stop" : 1730123977069,
+    "duration" : 613
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bed3404745f86009",
+  "name" : "Заявка на удаление профиля",
+  "time" : {
+    "start" : 1730123970942,
+    "stop" : 1730123971526,
+    "duration" : 584
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd73a3dc23ba5185",
+  "name" : "Редактирование профиля",
+  "time" : {
+    "start" : 1730123971540,
+    "stop" : 1730123972765,
+    "duration" : 1225
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f493cd926b97b5",
+  "name" : "Создание записи на курс \"Быстрый RUST\"",
+  "time" : {
+    "start" : 1730123980893,
+    "stop" : 1730123981378,
+    "duration" : 485
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d1f4376bb2f5242",
+  "name" : "Получение информации о курсах",
+  "time" : {
+    "start" : 1730123974294,
+    "stop" : 1730123975069,
+    "duration" : 775
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5307ddb69f28f0cf",
+  "name" : "[2] 10",
+  "time" : {
+    "start" : 1730123975776,
+    "stop" : 1730123976452,
+    "duration" : 676
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bde12614e9070e73",
+  "name" : "[2] 35423",
+  "time" : {
+    "start" : 1730123968289,
+    "stop" : 1730123968780,
+    "duration" : 491
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1564ca5ee32ec72a",
+  "name" : "[1] 1, 10, 0",
+  "time" : {
+    "start" : 1730123977918,
+    "stop" : 1730123978539,
+    "duration" : 621
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "15a05965d87659c8",
+  "name" : "[2] middle, 1",
+  "time" : {
+    "start" : 1730123980175,
+    "stop" : 1730123980883,
+    "duration" : 708
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62a27630f1aa78ca",
+  "name" : "[1] 8",
+  "time" : {
+    "start" : 1730123975072,
+    "stop" : 1730123975769,
+    "duration" : 697
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f7feed3a5305609",
+  "name" : "[4] 4",
+  "time" : {
+    "start" : 1730123977079,
+    "stop" : 1730123977900,
+    "duration" : 821
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec6dd4a81a92fab2",
+  "name" : "Отмена заявки на удаление профиля",
+  "time" : {
+    "start" : 1730123969385,
+    "stop" : 1730123970936,
+    "duration" : 1551
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "47dd79f1344ae960",
+  "name" : "Принятие пользовательского соглашения",
+  "time" : {
+    "start" : 1730123973393,
+    "stop" : 1730123974285,
+    "duration" : 892
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "561d06462e0b9dce",
+  "name" : "[1] junior, 2",
+  "time" : {
+    "start" : 1730123979610,
+    "stop" : 1730123980169,
+    "duration" : 559
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59fc82132b137124",
+  "name" : "[3] 1, 10, 10",
+  "time" : {
+    "start" : 1730123979062,
+    "stop" : 1730123979599,
+    "duration" : 537
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec7957fb9056c2b1",
+  "name" : "[1] 35422",
+  "time" : {
+    "start" : 1730123967754,
+    "stop" : 1730123968284,
+    "duration" : 530
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "edf4b2430d35e054",
+  "name" : "Получение данных профиля",
+  "time" : {
+    "start" : 1730123972775,
+    "stop" : 1730123973386,
+    "duration" : 611
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

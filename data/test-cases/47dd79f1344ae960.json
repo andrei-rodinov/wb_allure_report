@@ -1,0 +1,70 @@
+{
+  "uid" : "47dd79f1344ae960",
+  "name" : "Принятие пользовательского соглашения",
+  "fullName" : "wb.tech.user.AcceptAgreementTest.acceptAgreementIsSuccess",
+  "historyId" : "a5563ac82d85bc4578f1e49f0b644c88",
+  "time" : {
+    "start" : 1730123973393,
+    "stop" : 1730123974285,
+    "duration" : 892
+  },
+  "description" : "Пользовательское соглашение принято",
+  "descriptionHtml" : "<p>Пользовательское соглашение принято</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "User"
+  }, {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:wb.tech.user.AcceptAgreementTest]/[method:acceptAgreementIsSuccess()]"
+  }, {
+    "name" : "feature",
+    "value" : "Тестирование API редактирование профиля"
+  }, {
+    "name" : "epic",
+    "value" : "API WBTechSchool"
+  }, {
+    "name" : "host",
+    "value" : "Noutbuk-Andrej.local"
+  }, {
+    "name" : "thread",
+    "value" : "91743@Noutbuk-Andrej.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "wb.tech.user.AcceptAgreementTest"
+  }, {
+    "name" : "testClass",
+    "value" : "wb.tech.user.AcceptAgreementTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "acceptAgreementIsSuccess"
+  }, {
+    "name" : "suite",
+    "value" : "Тест № 5: Принятие пользовательского соглашения"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "User" ]
+  },
+  "source" : "47dd79f1344ae960.json",
+  "parameterValues" : [ ]
+}

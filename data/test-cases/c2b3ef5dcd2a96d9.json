@@ -1,0 +1,70 @@
+{
+  "uid" : "c2b3ef5dcd2a96d9",
+  "name" : "Отправка задания на проверку",
+  "fullName" : "wb.tech.commit.CommitSolutionTest.sendSolutionIsSuccess",
+  "historyId" : "ee3f4430b315b522f5dbd4d0cc9745d8",
+  "time" : {
+    "start" : 1730123966279,
+    "stop" : 1730123967715,
+    "duration" : 1436
+  },
+  "description" : "Ожидаемый результат - Задание отправлено",
+  "descriptionHtml" : "<p>Ожидаемый результат - Задание отправлено</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "Commit"
+  }, {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:wb.tech.commit.CommitSolutionTest]/[method:sendSolutionIsSuccess()]"
+  }, {
+    "name" : "epic",
+    "value" : "API WBTechSchool"
+  }, {
+    "name" : "feature",
+    "value" : "Тестирование API отправка задания на проверку"
+  }, {
+    "name" : "host",
+    "value" : "Noutbuk-Andrej.local"
+  }, {
+    "name" : "thread",
+    "value" : "91743@Noutbuk-Andrej.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "wb.tech.commit.CommitSolutionTest"
+  }, {
+    "name" : "testClass",
+    "value" : "wb.tech.commit.CommitSolutionTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "sendSolutionIsSuccess"
+  }, {
+    "name" : "suite",
+    "value" : "Тест № 10: Отправка решения"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "Commit" ]
+  },
+  "source" : "c2b3ef5dcd2a96d9.json",
+  "parameterValues" : [ ]
+}

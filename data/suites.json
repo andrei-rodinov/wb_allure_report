@@ -1,0 +1,318 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Тест № 10: Отправка решения",
+    "children" : [ {
+      "name" : "Отправка задания на проверку",
+      "uid" : "c2b3ef5dcd2a96d9",
+      "parentUid" : "86a9263bc4e2f7b690163c193a2ac041",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730123966279,
+        "stop" : 1730123967715,
+        "duration" : 1436
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "86a9263bc4e2f7b690163c193a2ac041"
+  }, {
+    "name" : "Тест № 9: Информация об оценках",
+    "children" : [ {
+      "name" : "[1] 35422",
+      "uid" : "ec7957fb9056c2b1",
+      "parentUid" : "8e4b47c04d670ae9176d4668dcf4b3ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730123967754,
+        "stop" : 1730123968284,
+        "duration" : 530
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[2] 35423",
+      "uid" : "bde12614e9070e73",
+      "parentUid" : "8e4b47c04d670ae9176d4668dcf4b3ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730123968289,
+        "stop" : 1730123968780,
+        "duration" : 491
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8e4b47c04d670ae9176d4668dcf4b3ff"
+  }, {
+    "name" : "Тест № 8: Информация о задачах",
+    "children" : [ {
+      "name" : "Получение информации о задачах",
+      "uid" : "f853fbc0802521d7",
+      "parentUid" : "75b892a3a3841eaa5c63b097cb2bc677",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730123968791,
+        "stop" : 1730123969375,
+        "duration" : 584
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "75b892a3a3841eaa5c63b097cb2bc677"
+  }, {
+    "name" : "Тест № 3: Создание заявки на удаление / Отмена заявки на удаление",
+    "children" : [ {
+      "name" : "Отмена заявки на удаление профиля",
+      "uid" : "ec6dd4a81a92fab2",
+      "parentUid" : "1d4a48031c30e17194a4e240b8de70f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730123969385,
+        "stop" : 1730123970936,
+        "duration" : 1551
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Заявка на удаление профиля",
+      "uid" : "bed3404745f86009",
+      "parentUid" : "1d4a48031c30e17194a4e240b8de70f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730123970942,
+        "stop" : 1730123971526,
+        "duration" : 584
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "1d4a48031c30e17194a4e240b8de70f0"
+  }, {
+    "name" : "Тест № 2: Редактирование данных пользователя",
+    "children" : [ {
+      "name" : "Редактирование профиля",
+      "uid" : "cd73a3dc23ba5185",
+      "parentUid" : "02c6d670f5c77d97b772bfae6ce0925a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730123971540,
+        "stop" : 1730123972765,
+        "duration" : 1225
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "02c6d670f5c77d97b772bfae6ce0925a"
+  }, {
+    "name" : "Тест № 4: Получение данных пользователя",
+    "children" : [ {
+      "name" : "Получение данных профиля",
+      "uid" : "edf4b2430d35e054",
+      "parentUid" : "8695927e527dc2ef17d515ab12d70e64",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730123972775,
+        "stop" : 1730123973386,
+        "duration" : 611
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8695927e527dc2ef17d515ab12d70e64"
+  }, {
+    "name" : "Тест № 5: Принятие пользовательского соглашения",
+    "children" : [ {
+      "name" : "Принятие пользовательского соглашения",
+      "uid" : "47dd79f1344ae960",
+      "parentUid" : "5fe80680fc05cc7e0f04f804794697a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730123973393,
+        "stop" : 1730123974285,
+        "duration" : 892
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "5fe80680fc05cc7e0f04f804794697a4"
+  }, {
+    "name" : "Тест № 6: Информация о курсах",
+    "children" : [ {
+      "name" : "Получение информации о курсах",
+      "uid" : "7d1f4376bb2f5242",
+      "parentUid" : "d887f0767c51bdf1638fba33182ff3d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730123974294,
+        "stop" : 1730123975069,
+        "duration" : 775
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[1] 8",
+      "uid" : "62a27630f1aa78ca",
+      "parentUid" : "d887f0767c51bdf1638fba33182ff3d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730123975072,
+        "stop" : 1730123975769,
+        "duration" : 697
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[2] 10",
+      "uid" : "5307ddb69f28f0cf",
+      "parentUid" : "d887f0767c51bdf1638fba33182ff3d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730123975776,
+        "stop" : 1730123976452,
+        "duration" : 676
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[3] 11",
+      "uid" : "4d0dd338f25c1b86",
+      "parentUid" : "d887f0767c51bdf1638fba33182ff3d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730123976456,
+        "stop" : 1730123977069,
+        "duration" : 613
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[4] 4",
+      "uid" : "2f7feed3a5305609",
+      "parentUid" : "d887f0767c51bdf1638fba33182ff3d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730123977079,
+        "stop" : 1730123977900,
+        "duration" : 821
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[1] 1, 10, 0",
+      "uid" : "1564ca5ee32ec72a",
+      "parentUid" : "d887f0767c51bdf1638fba33182ff3d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730123977918,
+        "stop" : 1730123978539,
+        "duration" : 621
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[2] 2, 5, 0",
+      "uid" : "b1691f21305d024d",
+      "parentUid" : "d887f0767c51bdf1638fba33182ff3d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730123978544,
+        "stop" : 1730123979055,
+        "duration" : 511
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[3] 1, 10, 10",
+      "uid" : "59fc82132b137124",
+      "parentUid" : "d887f0767c51bdf1638fba33182ff3d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730123979062,
+        "stop" : 1730123979599,
+        "duration" : 537
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[1] junior, 2",
+      "uid" : "561d06462e0b9dce",
+      "parentUid" : "d887f0767c51bdf1638fba33182ff3d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730123979610,
+        "stop" : 1730123980169,
+        "duration" : 559
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "[2] middle, 1",
+      "uid" : "15a05965d87659c8",
+      "parentUid" : "d887f0767c51bdf1638fba33182ff3d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730123980175,
+        "stop" : 1730123980883,
+        "duration" : 708
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d887f0767c51bdf1638fba33182ff3d6"
+  }, {
+    "name" : "Тест № 1: Создание новой записи на курс",
+    "children" : [ {
+      "name" : "Создание записи на курс \"Быстрый RUST\"",
+      "uid" : "5f493cd926b97b5",
+      "parentUid" : "e8370f1f9bfc0ef39ad023350853c20d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730123980893,
+        "stop" : 1730123981378,
+        "duration" : 485
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e8370f1f9bfc0ef39ad023350853c20d"
+  }, {
+    "name" : "Тест № 7: Информация о материалах курса",
+    "children" : [ {
+      "name" : "Получение информации о материалах курса",
+      "uid" : "214587408e4ffe73",
+      "parentUid" : "aebe4a5b71eec7ff57f104b0f0ef4b83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730123981387,
+        "stop" : 1730123981989,
+        "duration" : 602
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "aebe4a5b71eec7ff57f104b0f0ef4b83"
+  } ]
+}

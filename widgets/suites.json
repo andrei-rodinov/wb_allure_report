@@ -1,0 +1,114 @@
+{
+  "total" : 10,
+  "items" : [ {
+    "uid" : "d887f0767c51bdf1638fba33182ff3d6",
+    "name" : "Тест № 6: Информация о курсах",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 10,
+      "unknown" : 0,
+      "total" : 10
+    }
+  }, {
+    "uid" : "8e4b47c04d670ae9176d4668dcf4b3ff",
+    "name" : "Тест № 9: Информация об оценках",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "1d4a48031c30e17194a4e240b8de70f0",
+    "name" : "Тест № 3: Создание заявки на удаление / Отмена заявки на удаление",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "86a9263bc4e2f7b690163c193a2ac041",
+    "name" : "Тест № 10: Отправка решения",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "75b892a3a3841eaa5c63b097cb2bc677",
+    "name" : "Тест № 8: Информация о задачах",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "02c6d670f5c77d97b772bfae6ce0925a",
+    "name" : "Тест № 2: Редактирование данных пользователя",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "8695927e527dc2ef17d515ab12d70e64",
+    "name" : "Тест № 4: Получение данных пользователя",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "5fe80680fc05cc7e0f04f804794697a4",
+    "name" : "Тест № 5: Принятие пользовательского соглашения",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "e8370f1f9bfc0ef39ad023350853c20d",
+    "name" : "Тест № 1: Создание новой записи на курс",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "aebe4a5b71eec7ff57f104b0f0ef4b83",
+    "name" : "Тест № 7: Информация о материалах курса",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "f853fbc0802521d7",
+  "name" : "Получение информации о задачах",
+  "fullName" : "wb.tech.tasks.GetTasksTest.getAllTasks",
+  "historyId" : "507dd8138c19251e1a7a4c793fcf890d",
+  "time" : {
+    "start" : 1730123968791,
+    "stop" : 1730123969375,
+    "duration" : 584
+  },
+  "description" : "Ожидаемый результат - Информация отображена",
+  "descriptionHtml" : "<p>Ожидаемый результат - Информация отображена</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "Tasks"
+  }, {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:wb.tech.tasks.GetTasksTest]/[method:getAllTasks()]"
+  }, {
+    "name" : "epic",
+    "value" : "API WBTechSchool"
+  }, {
+    "name" : "feature",
+    "value" : "Тестирование API получение информации о задачах"
+  }, {
+    "name" : "host",
+    "value" : "Noutbuk-Andrej.local"
+  }, {
+    "name" : "thread",
+    "value" : "91743@Noutbuk-Andrej.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "wb.tech.tasks.GetTasksTest"
+  }, {
+    "name" : "testClass",
+    "value" : "wb.tech.tasks.GetTasksTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getAllTasks"
+  }, {
+    "name" : "suite",
+    "value" : "Тест № 8: Информация о задачах"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "Tasks" ]
+  },
+  "source" : "f853fbc0802521d7.json",
+  "parameterValues" : [ ]
+}

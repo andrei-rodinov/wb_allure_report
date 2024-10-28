@@ -1,0 +1,70 @@
+{
+  "uid" : "62a27630f1aa78ca",
+  "name" : "[1] 8",
+  "fullName" : "wb.tech.courses.CourseInfoTests.getCoursesInfoByID",
+  "historyId" : "f24abb98fe4ff90610910407d0f30ca",
+  "time" : {
+    "start" : 1730123975072,
+    "stop" : 1730123975769,
+    "duration" : 697
+  },
+  "description" : "Ожидаемый результат - Информация отображена согласно запросу",
+  "descriptionHtml" : "<p>Ожидаемый результат - Информация отображена согласно запросу</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "Courses"
+  }, {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:wb.tech.courses.CourseInfoTests]/[test-template:getCoursesInfoByID(int)]/[test-template-invocation:#1]"
+  }, {
+    "name" : "feature",
+    "value" : "Тестирование API получение информации о курсах"
+  }, {
+    "name" : "epic",
+    "value" : "API WBTechSchool"
+  }, {
+    "name" : "host",
+    "value" : "Noutbuk-Andrej.local"
+  }, {
+    "name" : "thread",
+    "value" : "91743@Noutbuk-Andrej.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "wb.tech.courses.CourseInfoTests"
+  }, {
+    "name" : "testClass",
+    "value" : "wb.tech.courses.CourseInfoTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "getCoursesInfoByID"
+  }, {
+    "name" : "suite",
+    "value" : "Тест № 6: Информация о курсах"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "Courses" ]
+  },
+  "source" : "62a27630f1aa78ca.json",
+  "parameterValues" : [ ]
+}

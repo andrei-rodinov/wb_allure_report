@@ -1,0 +1,70 @@
+{
+  "uid" : "ec7957fb9056c2b1",
+  "name" : "[1] 35422",
+  "fullName" : "wb.tech.commit.GetScoreInfoTest.getScoreInfoById",
+  "historyId" : "64727d020213ead813fb4184469041ac",
+  "time" : {
+    "start" : 1730123967754,
+    "stop" : 1730123968284,
+    "duration" : 530
+  },
+  "description" : "Ожидаемый результат - Информация отображена",
+  "descriptionHtml" : "<p>Ожидаемый результат - Информация отображена</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "Commit"
+  }, {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:wb.tech.commit.GetScoreInfoTest]/[test-template:getScoreInfoById(int)]/[test-template-invocation:#1]"
+  }, {
+    "name" : "feature",
+    "value" : "Тестирование API получение информации об оценках"
+  }, {
+    "name" : "epic",
+    "value" : "API WBTechSchool"
+  }, {
+    "name" : "host",
+    "value" : "Noutbuk-Andrej.local"
+  }, {
+    "name" : "thread",
+    "value" : "91743@Noutbuk-Andrej.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "wb.tech.commit.GetScoreInfoTest"
+  }, {
+    "name" : "testClass",
+    "value" : "wb.tech.commit.GetScoreInfoTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getScoreInfoById"
+  }, {
+    "name" : "suite",
+    "value" : "Тест № 9: Информация об оценках"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "Commit" ]
+  },
+  "source" : "ec7957fb9056c2b1.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "edf4b2430d35e054",
+  "name" : "Получение данных профиля",
+  "fullName" : "wb.tech.user.GetProfileInfoTest.getProfileInfoIsSuccess",
+  "historyId" : "afae4c7f4d9c767904cad42459305716",
+  "time" : {
+    "start" : 1730123972775,
+    "stop" : 1730123973386,
+    "duration" : 611
+  },
+  "description" : "Ожидаемый результат - данные профиля",
+  "descriptionHtml" : "<p>Ожидаемый результат - данные профиля</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "User"
+  }, {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:wb.tech.user.GetProfileInfoTest]/[method:getProfileInfoIsSuccess()]"
+  }, {
+    "name" : "feature",
+    "value" : "Тестирование API редактирование профиля"
+  }, {
+    "name" : "epic",
+    "value" : "API WBTechSchool"
+  }, {
+    "name" : "host",
+    "value" : "Noutbuk-Andrej.local"
+  }, {
+    "name" : "thread",
+    "value" : "91743@Noutbuk-Andrej.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "wb.tech.user.GetProfileInfoTest"
+  }, {
+    "name" : "testClass",
+    "value" : "wb.tech.user.GetProfileInfoTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getProfileInfoIsSuccess"
+  }, {
+    "name" : "suite",
+    "value" : "Тест № 4: Получение данных пользователя"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "User" ]
+  },
+  "source" : "edf4b2430d35e054.json",
+  "parameterValues" : [ ]
+}
